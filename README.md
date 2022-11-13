@@ -7,4 +7,5 @@
 ## Datos
 Los datos del proyecto vienen de la siguiente competición Kaggle:
 https://www.kaggle.com/competitions/edsa-individual-electricity-shortfall-challenge/overview/description
+
 y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
