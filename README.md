@@ -15,3 +15,6 @@ Los datos del proyecto vienen de la siguiente competición Kaggle [EDSA Individu
       !unzip \*.zip && rm *.zip
       
 después de haber subido el archivo `.kaggle/kaggle.json` a tu Colab notebook environment
+## Videos
+
+- [Video entrega final](https://www.youtube.com/watch?v=tm6j5u9TrRI)
