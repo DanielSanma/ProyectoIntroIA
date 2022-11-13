@@ -13,3 +13,5 @@ Los datos del proyecto vienen de la siguiente competición Kaggle [EDSA Individu
       !kaggle competitions download -c edsa-individual-electricity-shortfall-challenge
 
       !unzip \*.zip && rm *.zip
+      
+después de haber subido el archivo `.kaggle/kaggle.json` a tu Colab notebook environment
