@@ -11,9 +11,9 @@ https://www.kaggle.com/competitions/edsa-individual-electricity-shortfall-challe
 
 y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
--import os
-os.environ['KAGGLE_CONFIG_DIR'] = '/content'
+#### import os
+#### os.environ['KAGGLE_CONFIG_DIR'] = '/content'
 
--!kaggle competitions download -c edsa-individual-electricity-shortfall-challenge
+#### !kaggle competitions download -c edsa-individual-electricity-shortfall-challenge
 
--!unzip \*.zip && rm *.zip
+#### !unzip \*.zip && rm *.zip
